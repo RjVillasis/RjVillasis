@@ -12,7 +12,7 @@ An economist turned data analyst with a passion for machine learning. Eager to s
 💻 Machine learning & Programming enthusiast
 
 
-🌟 **Here's what you'll find in my repository:**
+**Here's what you'll find in my repository:**
 
 - Machine Learning Projects: From sentiment analysis to image classification (Its just the beginning!) 
 
