@@ -20,3 +20,7 @@ An economist turned data analyst with a passion for machine learning. Eager to s
 
 
 Feel free to explore my work,and connect with me. Let's learn eager to grow and learn together in this exciting field!
+
+<span style="color: gray">This text is gray.</span>
+
+I am also more active on social platforms than I should be!
