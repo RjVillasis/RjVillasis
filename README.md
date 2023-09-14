@@ -1,9 +1,9 @@
 
-## Hi, I'm Arjay! 👋
+**Hi, I'm Arjay!** 👋
 
 An economist turned data analyst with a passion for machine learning. Eager to share my projects and explorations in the world of AI and predictive modeling.
 
-## My background
+**My background**
 
 🎓 Formally educated economist (BA, MA) with 2 years of formal research experience 
 
@@ -12,11 +12,11 @@ An economist turned data analyst with a passion for machine learning. Eager to s
 💻 Machine learning & Programming enthusiast
 
 
-## 🌟 Here's what you'll find in my repository:
+🌟 **Here's what you'll find in my repository:**
 
-- **Machine Learning Projects:** From sentiment analysis to image classification (Its just the beginning!) 
+- Machine Learning Projects: From sentiment analysis to image classification (Its just the beginning!) 
 
-- **Data Analysis:** Exploring data, uncovering insights, and visualizing trends—that's my data-driven journey.
+- Data Analysis: Exploring data, uncovering insights, and visualizing trends—that's my data-driven journey.
 
 
 Feel free to explore my work,and connect with me. Let's learn eager to grow and learn together in this exciting field!
