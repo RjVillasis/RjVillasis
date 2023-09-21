@@ -19,7 +19,7 @@ An economist turned data analyst with a passion for machine learning. Eager to s
 - Data Analysis: Exploring data, uncovering insights, and visualizing trends—that's my data-driven journey.
 
 
-Feel free to explore my work,and connect with me. Let's learn eager to grow and learn together in this exciting field!
+Feel free to explore my work,and connect with me. Eager to grow and learn together in this exciting field!
 
 **Linkedin** 
 
